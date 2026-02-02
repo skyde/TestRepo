@@ -1,0 +1,19 @@
+# Build artifacts
+.build/
+*.xcodeproj
+xcuserdata/
+DerivedData/
+
+# App bundle (built output)
+*.app
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Swift Package Manager
+Package.resolved
